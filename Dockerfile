@@ -1,5 +1,5 @@
 # This is a simple image to run your project by bash in a container
-# Consider modifying to your needs (.e.g, expose ports and run specific scrips)
+# Consider modifying to your needs (e.g., expose ports and run specific scrips)
 #
 
 # Base image
